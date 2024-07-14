@@ -6,9 +6,13 @@ The Decentralized Voting DApp is a blockchain-based application that allows user
 
 ## Demo Videos
 
-* **Remix IDE Demo**: [Watch Demo]
-  (https://link-to-your-remix-demo-video)
-* **Deployed DApp Demo**: [Watch Demo](https://link-to-your-deployed-dapp-demo-video)
+* **Remix IDE Demo**:
+
+  https://github.com/user-attachments/assets/dbd47766-1494-4775-bce4-96c9e5802f6b
+  
+* **Deployed DApp Demo**:
+
+https://github.com/user-attachments/assets/b3a0660b-076f-44f5-bed7-e0830a018a5e
 
 ## Features
 
